@@ -1,4 +1,4 @@
 <?php
-echo 'hello world med';
+echo 'hello world med mido';
 ?>
 
