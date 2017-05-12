@@ -1,5 +1,5 @@
 <?php
+echo 'hello jenkins world';
 
-echo 'hello  to genius jenkins world med';
 ?>
 
